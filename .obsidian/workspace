@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9589c6d7445212c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4501a77e52ac50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journal/2022-07-01.Fri.294th.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f0502b4009ce70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6bd7f0ba17166b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a7635ba1cfb6f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd306c5748821d28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf562d0a74e69b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "61272cb4415475eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732f971639e77598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2022-07-01.Fri.294th.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f4501a77e52ac50",
+  "lastOpenFiles": [
+    "journal/2022-07-01.Fri.294th.md",
+    "README.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "emacsyKeys": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./files",
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "legacyEditor": false
+}
