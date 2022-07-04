@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-07-01.Fri.294th.md",
+            "file": "journal/2022-07-04.Mon.295th.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-07-01.Fri.294th.md",
+                "file": "journal/2022-07-04.Mon.295th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +91,7 @@
   },
   "active": "5f4501a77e52ac50",
   "lastOpenFiles": [
+    "journal/2022-07-04.Mon.295th.md",
     "journal/2022-07-01.Fri.294th.md",
     "README.md"
   ]
