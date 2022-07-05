@@ -5,5 +5,8 @@
   "table-editor-obsidian",
   "sliding-panes-obsidian",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "cmenu-plugin",
+  "obsidian-tasks-plugin",
+  "various-complements"
 ]
