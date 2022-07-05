@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-07-04.Mon.295th.md",
+            "file": "journal/2022-07-04.296th.Tue.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,13 +49,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bcdeb042d7d88aa1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 277,
-    "collapsed": true
+    "width": 277
   },
   "right": {
     "id": "cf562d0a74e69b70",
@@ -71,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-07-04.Mon.295th.md",
+                "file": "journal/2022-07-04.296th.Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +86,28 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa745cac87d4687",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2022-07-04.296th.Tue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac86787c46b6148c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2022-07-04.296th.Tue.md"
               }
             }
           }
@@ -91,8 +120,9 @@
   },
   "active": "5f4501a77e52ac50",
   "lastOpenFiles": [
-    "journal/2022-07-04.Mon.295th.md",
-    "journal/2022-07-01.Fri.294th.md",
+    "journal/2022-07-04.296th.Tue.md",
+    "journal/2022-07-04.295th.Mon.md",
+    "journal/2022-07-01.294th.Fri.md",
     "README.md"
   ]
 }

@@ -1,4 +1,9 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }
