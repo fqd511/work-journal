@@ -50,6 +50,14 @@
           "lastUpdated": 1657017549245
         }
       }
+    },
+    "scheduled": {
+      "scheduled": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657073989502
+        }
+      }
     }
   }
 }
