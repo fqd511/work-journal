@@ -10,7 +10,7 @@
           {
             "id": "43d22d605b15edc7",
             "type": "leaf",
-            "dimension": 58.92857142857143,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,15 +22,16 @@
             }
           },
           {
-            "id": "cfa745cac87d4687",
+            "id": "cd5ee33983809ed9",
             "type": "leaf",
-            "dimension": 41.07142857142857,
+            "dimension": 50,
             "state": {
-              "type": "outgoing-link",
+              "type": "markdown",
               "state": {
-                "file": "journal/2022-07-07.298th.Thur.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "journal/Task List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -131,6 +132,7 @@
   "active": "43d22d605b15edc7",
   "lastOpenFiles": [
     "journal/2022-07-07.298th.Thur.md",
+    "journal/Task List.md",
     "journal/2022-07-08.299th.Fri.md",
     "journal/2022-07-06.297th.Wed.md",
     "journal/2022-07-05.296th.Tue.md",
