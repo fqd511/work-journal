@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-07-11.300th.Mon.md",
+                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/Task List.md",
+                "file": "journal/2022/Q3/summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-07-11.300th.Mon.md",
+                "file": "journal/2022/Q3/summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-07-11.300th.Mon.md"
+                "file": "journal/2022/Q3/summary.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-07-11.300th.Mon.md",
+                "file": "journal/2022/Q3/summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,16 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43d22d605b15edc7",
+  "active": "cd5ee33983809ed9",
   "lastOpenFiles": [
-    "journal/2022-07-11.300th.Mon.md",
-    "journal/2022-07-08.299th.Fri.md",
-    "journal/2022-07-07.298th.Thur.md",
+    "journal/2022/Q3/summary.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-04.295th.Mon.md",
     "journal/Task List.md",
-    "journal/2022-07-06.297th.Wed.md",
-    "journal/2022-07-05.296th.Tue.md",
-    "journal/2022-07-04.295th.Mon.md",
-    "journal/2022-07-01.294th.Fri.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-08.299th.Fri.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-07.298th.Thur.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-06.297th.Wed.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-05.296th.Tue.md",
+    "journal/2022/Q3/W26(0701-0704)/2022-07-01.294th.Fri.md",
     "README.md"
   ]
 }
