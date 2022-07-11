@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-07-08.299th.Fri.md",
+                "file": "journal/2022-07-11.300th.Mon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "cf562d0a74e69b70",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-07-08.299th.Fri.md",
+                "file": "journal/2022-07-11.300th.Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-07-08.299th.Fri.md"
+                "file": "journal/2022-07-11.300th.Mon.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-07-08.299th.Fri.md",
+                "file": "journal/2022-07-11.300th.Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +142,7 @@
   },
   "active": "43d22d605b15edc7",
   "lastOpenFiles": [
+    "journal/2022-07-11.300th.Mon.md",
     "journal/2022-07-08.299th.Fri.md",
     "journal/2022-07-07.298th.Thur.md",
     "journal/Task List.md",
