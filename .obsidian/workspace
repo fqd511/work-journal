@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb2b9012b3f1ac82",
+        "id": "c691c2bbdc0eb0c2",
         "type": "split",
         "children": [
           {
-            "id": "43d22d605b15edc7",
+            "id": "cd5ee33983809ed9",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
+                "file": "journal/2022/Q3/summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,13 +21,12 @@
             }
           },
           {
-            "id": "cd5ee33983809ed9",
+            "id": "b7fbfe62b3766026",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/Q3/summary.md",
+                "file": "journal/2022/Q3/W26(0701-0704)/summary.w26.Jul.Q3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,14 +141,14 @@
   "active": "cd5ee33983809ed9",
   "lastOpenFiles": [
     "journal/2022/Q3/summary.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-04.295th.Mon.md",
+    "journal/2022/Q3/W26(0701-0704)/summary.w26.Jul.Q3.md",
     "journal/Task List.md",
+    "journal/2022/Q3/summary.w26.Jul.Q3.md.md",
+    "journal/2022/Q3/W28(0711-0717)/summary.w28.Jul.Q3.md",
+    "journal/2022/Q3/W27(0704-0710)/summary.w27.Jul.Q3.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-08.299th.Fri.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-07.298th.Thur.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-06.297th.Wed.md",
+    "journal/2022/Q3/W27(0704-0710)/2022-07-04.295th.Mon.md",
     "journal/2022/Q3/W27(0704-0710)/2022-07-05.296th.Tue.md",
-    "journal/2022/Q3/W26(0701-0704)/2022-07-01.294th.Fri.md",
-    "README.md"
+    "journal/2022/Q3/W27(0704-0710)/2022-07-06.297th.Wed.md"
   ]
 }
