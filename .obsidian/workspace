@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "cf562d0a74e69b70",
@@ -142,8 +143,8 @@
   "lastOpenFiles": [
     "journal/2022/Q3/W28(0711-0717)/2022-07-13.302th.Wed.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-12.301th.Tue.md",
-    "journal/2022/Q3/summary.md",
     "journal/Task List.md",
+    "journal/2022/Q3/summary.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
     "journal/2022/Q3/W27(0704-0710)/2022-07-05.296th.Tue.md",
     "journal/2022/Q3/W27(0704-0710)/2022-07-06.297th.Wed.md",
