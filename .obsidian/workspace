@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
+                "file": "journal/Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md"
+                "file": "journal/Task List.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
+                "file": "journal/Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe15ccfb18e4d61f",
+  "active": "d15d31a6a1a02c53",
   "lastOpenFiles": [
-    "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
     "journal/Task List.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-13.302th.Wed.md",
     "journal/2022/Q2/summary.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-12.301th.Tue.md",
