@@ -12,3 +12,11 @@ starts before tomorrow
 exclude sub-items
 short mode
 ```
+> Latest reading
+```tasks
+done
+tags include #reading 
+sort by done
+limit 3
+short mode
+```
