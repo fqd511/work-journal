@@ -16,7 +16,7 @@ short mode
 ```tasks
 done
 tags include #reading 
-sort by done
+sort by done reverse
 limit 3
 short mode
 ```

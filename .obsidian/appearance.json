@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "interfaceFontFamily": "Fira Code,Courier New",
-  "textFontFamily": "Courier New"
+  "textFontFamily": "Courier New",
+  "translucency": true
 }
