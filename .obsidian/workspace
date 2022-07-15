@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2c4385ec3703a269",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "cf8de5cd23062ebf",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c4385ec3703a269",
+            "type": "leaf",
+            "dimension": 58.46313603322949,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce010f476800469c",
+            "type": "leaf",
+            "dimension": 41.53686396677051,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/Task List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -142,11 +164,11 @@
   "active": "2c4385ec3703a269",
   "lastOpenFiles": [
     "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+    "journal/Task List.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Drawing 2022-07-15-14.54.excalidraw.md",
     "journal/2022/Q3/W28(0711-0717)/summary.W28.Jul.Q3.md",
-    "journal/Task List.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
     "journal/2022/Q3/W27(0704-0710)/2022-07-05.296th.Tue.md",
     "journal/2022/Q3/W27(0704-0710)/2022-07-07.298th.Thur.md",

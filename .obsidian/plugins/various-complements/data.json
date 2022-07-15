@@ -1,6 +1,6 @@
 {
   "strategy": "default",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -144,6 +144,14 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1657854506010
+        }
+      }
+    },
+    "放置在场地内：算法": {
+      "放置在场地内：算法": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657876100990
         }
       }
     }
