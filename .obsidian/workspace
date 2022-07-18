@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5,
-    "collapsed": true
+    "width": 580.5
   },
   "right": {
     "id": "cf562d0a74e69b70",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md"
+                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +162,15 @@
   },
   "active": "2c4385ec3703a269",
   "lastOpenFiles": [
+    "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md",
+    "journal/2022/Q3/W28(0711-0717)/summary.W28.Jul.Q3.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-13.302th.Wed.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-12.301th.Tue.md",
+    "journal/2022/Q3/W28(0711-0717)/2022-07-11.300th.Mon.md",
     "journal/Task List.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Drawing 2022-07-15-14.54.excalidraw.md",
-    "journal/2022/Q3/W28(0711-0717)/summary.W28.Jul.Q3.md",
-    "journal/2022/Q3/W28(0711-0717)/2022-07-14.303th.Thur.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-05.296th.Tue.md",
-    "journal/2022/Q3/W27(0704-0710)/2022-07-07.298th.Thur.md",
-    "journal/2022/Q3/W28(0711-0717)/2022-07-12.301th.Tue.md"
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg"
   ]
 }
