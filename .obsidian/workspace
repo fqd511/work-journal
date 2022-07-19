@@ -10,7 +10,7 @@
           {
             "id": "2c4385ec3703a269",
             "type": "leaf",
-            "dimension": 65.00519210799584,
+            "dimension": 40.49844236760124,
             "state": {
               "type": "markdown",
               "state": {
@@ -24,7 +24,7 @@
           {
             "id": "92b0fabe1d8d6251",
             "type": "leaf",
-            "dimension": 34.994807892004154,
+            "dimension": 59.50155763239875,
             "state": {
               "type": "markdown",
               "state": {
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-19.306th.Tue.md",
+                "file": "journal/Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-19.306th.Tue.md"
+                "file": "journal/Task List.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/Q3/W29(0718-0724)/2022-07-19.306th.Tue.md",
+                "file": "journal/Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +161,10 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "2c4385ec3703a269",
+  "active": "92b0fabe1d8d6251",
   "lastOpenFiles": [
-    "journal/2022/Q3/W29(0718-0724)/2022-07-19.306th.Tue.md",
     "journal/Task List.md",
+    "journal/2022/Q3/W29(0718-0724)/2022-07-19.306th.Tue.md",
     "journal/2022/Q3/W29(0718-0724)/2022-07-18.305th.Mon.md",
     "journal/2022/Q3/W28(0711-0717)/2022-07-15.304th.Fri.md",
     "journal/2022/Q3/W28(0711-0717)/summary.W28.Jul.Q3.md",
