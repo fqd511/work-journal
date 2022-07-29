@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#需求/楼栋测算",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
     "width": 289.5,
     "collapsed": true
   },
-  "active": "2c4385ec3703a269",
+  "active": "d4a7635ba1cfb6f6",
   "lastOpenFiles": [
     "journal/Task List.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-29.314th.Fri.md",
