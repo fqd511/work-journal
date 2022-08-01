@@ -26,7 +26,7 @@ const now = new Date();
 // '2022'
 const thisYear = now.getFullYear();
 // 'Q3'
-const thisQuarter = "Q" + (now.getMonth() / 3 + 1);
+const thisQuarter = "Q" + (Math.floor(now.getMonth() / 3) + 1);
 // 'Jul'
 const thisMonth = now.toLocaleString("en-US", { month: "short" });
 // '07'
@@ -46,9 +46,8 @@ const thisWeek =
   "W" + Math.ceil((now.getTime() - _startYear.getTime()) / _msPerWeek);
 
 // 2022/Q3/W28(0711-0717)
-const distDir = `${thisYear}/${thisQuarter}/${thisWeek}(${
-  thisMonthNum + mondayNum
-}-${thisMonthNum + sundayNum})`;
+const distDir = `${thisYear}/${thisQuarter}/${thisWeek}(${thisMonthNum + mondayNum
+  }-${thisMonthNum + sundayNum})`;
 /** ***********  calculate date end    ************ */
 
 cd(rootDir);
