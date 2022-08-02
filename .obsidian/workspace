@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/Q3/W31(081-087)/2022-08-01.315th.Mon.md",
+                "file": "journal/2022/Q3/W31(081-087)/2022-08-02.316th.Tue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "cf562d0a74e69b70",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/Q3/W31(081-087)/2022-08-01.315th.Mon.md",
+                "file": "journal/2022/Q3/W31(081-087)/2022-08-02.316th.Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/Q3/W31(081-087)/2022-08-01.315th.Mon.md"
+                "file": "journal/2022/Q3/W31(081-087)/2022-08-02.316th.Tue.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/Q3/W31(081-087)/2022-08-01.315th.Mon.md",
+                "file": "journal/2022/Q3/W31(081-087)/2022-08-02.316th.Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +165,12 @@
     "journal/Task List.md",
     "journal/2022/Q3/W31(081-087)/2022-08-01.315th.Mon.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-29.314th.Fri.md",
+    "journal/2022/Q3/W31(081-087)/2022-08-02.316th.Tue.md",
     "journal/2022/Q3/W30(0725-0731)/summary.W30.Jul.Q3.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-28.313th.Thur.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-27.312th.Wed.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-26.311th.Tue.md",
     "journal/2022/Q3/W30(0725-0731)/2022-07-25.310th.Mon.md",
-    "journal/template/summary.md",
-    "journal/2022/Q3/W31(081-087)/summary.W31.Aug.Q3.md"
+    "journal/template/summary.md"
   ]
 }
